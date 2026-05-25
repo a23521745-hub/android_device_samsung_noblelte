@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 The LineageOS Project
+# Copyright (C) 2026 Evolution X
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_noblelte.mk
+    $(LOCAL_DIR)/evolution_noblelte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_noblelte-userdebug \
-    lineage_noblelte-user \
-    lineage_noblelte-eng
+    evolution_noblelte-userdebug \
+    evolution_noblelte-user \
+    evolution_noblelte-eng
